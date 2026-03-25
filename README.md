@@ -1,8 +1,8 @@
 # Lab Java - IE303
 
-## Thong tin sinh vien
-- Ho va ten: Phan Huu Tri
+## Thông tin sinh viên
+- Họ và tên: Phan Hữu Trí
 - MSSV: 235216477
 
-## Thong tin mon hoc
-- Mon hoc: Cong nghe Java IE303-Q22
+## Thông tin môn học
+- Môn học: Công nghệ Java
